@@ -1,0 +1,26 @@
+body{
+        h1 {
+            color:Purple;
+            font-family: Arial;
+        }
+        .strong {
+            color:blue;
+            font-family: Arial;
+            
+        }
+        .em {
+            color: green;
+            font-family: Georgia;
+        }
+        ul {
+            font-family:arial;
+        }     
+        h3{
+            color:Pink;
+            font-size:medium;
+        }
+        ol {
+            font-family: arial;
+        }
+     }
+       
